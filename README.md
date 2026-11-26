@@ -1,5 +1,7 @@
 # Medical Redactor
 
+[![License: EUPL-1.2](https://img.shields.io/badge/License-EUPL%201.2-blue.svg)](LICENSE)
+
 Medical Redactor is an advanced, privacy-first, and fully portable Python application designed for healthcare professionals. It automates the ingestion, structural analysis, and text redaction of sensitive patient data (PHI/PII) from clinical records and laboratory data, allowing for seamless anonymization and data sharing.
 
 ## 🚀 Features
@@ -68,4 +70,4 @@ For maximum security in hospital environments, the software supports a **Custom 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **European Union Public Licence v. 1.2 (EUPL-1.2)** — see the [LICENSE](LICENSE) file for details.
